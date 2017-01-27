@@ -9,6 +9,7 @@ public class MainClass {
 		sales.display();
 		System.out.println("Test");
 		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 
 	private static void display() {
