@@ -7,6 +7,7 @@ public class MainClass {
 		display();
 		Sales sales = new Sales();
 		sales.display();
+		System.out.println("Test");
 	}
 
 	private static void display() {
